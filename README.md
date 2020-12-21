@@ -5,3 +5,6 @@
 
 
 [TowardsDataScience recs, code snippets](https://towardsdatascience.com/access-crypto-and-defi-apis-891f99b14b38)
+
+
+[web3.py](https://web3py.readthedocs.io/en/stable/quickstart.html)
