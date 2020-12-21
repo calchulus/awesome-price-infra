@@ -12,3 +12,8 @@
 [Polygon Price Feeds](https://polygon.io/docs/getting-started)
 
 [Cryptocompare](https://min-api.cryptocompare.com/documentation?key=Historical&cat=dataExchangeHistoday)
+
+IFTTT
+
+[HAL.xyz](http://hal.xyz/)
+[BuidlHub](https://docs.buidlhub.com/)
