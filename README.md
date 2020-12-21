@@ -17,3 +17,6 @@ IFTTT
 
 [HAL.xyz](http://hal.xyz/)
 [BuidlHub](https://docs.buidlhub.com/)
+
+
+[twap betting](https://updown.finance/)
