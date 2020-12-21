@@ -13,6 +13,12 @@
 
 [Cryptocompare](https://min-api.cryptocompare.com/documentation?key=Historical&cat=dataExchangeHistoday)
 
+
+Telegram Bots
+
+
+[BUIDLHub](https://docs.buidlhub.com/gettingStarted/Let's%20Add%20Automations%20with%20Chatbots)
+
 IFTTT
 
 [HAL.xyz](http://hal.xyz/)
