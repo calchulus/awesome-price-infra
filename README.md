@@ -8,3 +8,7 @@
 
 
 [web3.py](https://web3py.readthedocs.io/en/stable/quickstart.html)
+
+[Polygon Price Feeds](https://polygon.io/docs/getting-started)
+
+[Cryptocompare](https://min-api.cryptocompare.com/documentation?key=Historical&cat=dataExchangeHistoday)
